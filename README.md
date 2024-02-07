@@ -5,6 +5,7 @@ Iam using Flutter Language and Getx State Management
 
 App Main Sections:
 -
+
 1-cupertino_icons.
 
 2-lottie.
@@ -47,6 +48,7 @@ App Main Sections:
 
 Light Mode Arabic Language:
 -
+
 ![splash](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/ea4560e1-629d-4937-b20f-f13a7c3142a3)
 ![onboard1-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/5a39b21a-32c3-4c62-a138-e074c420b601)
 ![onboard2-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/f44b378d-54a3-482b-8b88-68505ab6047f)
@@ -78,6 +80,7 @@ Light Mode Arabic Language:
 
 Light Mode English Language:
 -
+
 ![splash](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/d72f03c9-bd3f-40f5-8be8-74cfc2d9f75f)
 ![onboard1-en](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/3e50e3d6-0225-4e3f-a0f4-8a32d45d8802)
 ![onboard2-en](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/707e0ab7-177a-4ef9-8449-5a7089b1f936)
@@ -108,6 +111,7 @@ Light Mode English Language:
 
 Dark Mode Arabic Language:
 -
+
 -![splash-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/a0cd9555-5b61-4063-b360-9c82c705c066)
 ![onboard-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/e358b846-3b3d-4e44-b5b2-21639352d79a)
 ![onboard1-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/e62280bc-7598-48d3-b318-ed2297c18a81)
