@@ -107,6 +107,7 @@ Light Mode English Language:
 ![nosearch](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/baf71da1-a56c-4e1c-b65f-9f6f2d94174c)
 
 Dark Mode Arabic Language:
+-
 -![splash-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/a0cd9555-5b61-4063-b360-9c82c705c066)
 ![onboard-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/e358b846-3b3d-4e44-b5b2-21639352d79a)
 ![onboard1-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/e62280bc-7598-48d3-b318-ed2297c18a81)
