@@ -53,6 +53,12 @@ Mockup Light Mode Arabic Language:
 
 ![mockup-light-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/b398e66c-7daa-4547-82ba-0dd1729f7338)
 
+Mockup Light Mode English Language:
+---------------------------
+
+![mockup-light-en](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/e05819f4-196a-47c9-8f22-a9751072b4e4)
+
+
 Light Mode Arabic Language:
 ---------------------------
 
