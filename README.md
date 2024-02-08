@@ -48,6 +48,11 @@ App Main Sections:
 
 21-parallax image.
 
+Mockup Light Mode Arabic Language:
+---------------------------
+
+![![mockup-light-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/b398e66c-7daa-4547-82ba-0dd1729f7338)
+
 Light Mode Arabic Language:
 ---------------------------
 
@@ -66,7 +71,7 @@ Light Mode Arabic Language:
 ![searchd-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/7221cc23-0aa3-40fe-93be-8a8a5d22909a)
 ![weather-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/63ed6a2c-46cb-478c-8642-35f32d17eb50)
 ![weather1-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/a8e1bbe4-5ccc-4274-b479-f84cd03c4ffd)
-![searchw1-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/24aeb368-eb96-4809-bee2-2f38a5df9330)
+searchw1-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/24aeb368-eb96-4809-bee2-2f38a5df9330)
 ![searchw2-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/79c8cdb8-4e6b-4f57-991c-e6accd15999e)
 ![searchw3-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/4d367cc2-ed31-4741-8be1-ba54199cb5f1)
 ![searchw4-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/ccd1af15-a112-4c04-bda3-84a617077ff4)
