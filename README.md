@@ -46,6 +46,8 @@ App Main Sections:
 
 20-flutter_launcher_icons.
 
+21-parallax image.
+
 Light Mode Arabic Language:
 ---------------------------
 
