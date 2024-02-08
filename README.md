@@ -48,6 +48,8 @@ App Main Sections:
 
 21-parallax image.
 
+22-getx translator.
+
 Mockup Light Mode Arabic Language:
 ---------------------------
 
