@@ -1,10 +1,10 @@
 # The World App
 The world app is an application to show news, weathers, and clocks for all parts of the world
--
+----------------------------
 Iam using Flutter Language and Getx State Management
 
 App Main Sections:
--
+----------------------------
 
 1-cupertino_icons.
 
@@ -47,7 +47,7 @@ App Main Sections:
 20-flutter_launcher_icons.
 
 Light Mode Arabic Language:
--
+---------------------------
 
 ![splash](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/ea4560e1-629d-4937-b20f-f13a7c3142a3)
 ![onboard1-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/5a39b21a-32c3-4c62-a138-e074c420b601)
@@ -79,7 +79,7 @@ Light Mode Arabic Language:
 ![nosearch-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/d1e7dfa7-77bb-4afc-92d4-3d221097c213)
 
 Light Mode English Language:
--
+----------------------------
 
 ![splash](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/d72f03c9-bd3f-40f5-8be8-74cfc2d9f75f)
 ![onboard1-en](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/3e50e3d6-0225-4e3f-a0f4-8a32d45d8802)
@@ -110,7 +110,7 @@ Light Mode English Language:
 ![nosearch](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/baf71da1-a56c-4e1c-b65f-9f6f2d94174c)
 
 Dark Mode Arabic Language:
--
+--------------------------
 
 -![splash-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/a0cd9555-5b61-4063-b360-9c82c705c066)
 ![onboard-ar](https://github.com/mohammedhajieh/TheWorldApp/assets/106439542/e358b846-3b3d-4e44-b5b2-21639352d79a)
